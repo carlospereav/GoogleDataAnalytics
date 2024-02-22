@@ -1,0 +1,15 @@
+install.packages("tidyverse")
+library(tidyverse)
+
+names <- c("Carlos", "Juan", "Adri", "Pablo")
+age <- c(23, 46, 59, 6)
+people <- data.frame(names, age)
+head(people)
+str(people)
+glimpse(people)
+colnames(people)
+mutate(people, age_in_20 = age + 20)
+
+fruits <- c("Banana", "Apple", "Pear", "Blueberry", "Pineapple")
+score <- c(8, 7, 6, 10, 9)
+fruit_score <- data.frame(fruits, score)

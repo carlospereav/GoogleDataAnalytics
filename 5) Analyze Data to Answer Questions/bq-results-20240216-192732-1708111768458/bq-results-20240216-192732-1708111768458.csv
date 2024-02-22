@@ -1,0 +1,1001 @@
+ProductId,StoreId,StoreName,Address,neighborhood,QuantityAvailable,avg_quantity_sold_in_a_month
+29,21777,Walmart,2 Laurel Drive,Sabina-Mattfeldt,5,53.2
+69,21777,Walmart,6 Ridgeway Hill,Sabina-Mattfeldt,6,42.2
+161,21777,Walmart,9630 Dahle Hill,Sabina-Mattfeldt,3,71.333333333333329
+171,21777,Walmart,2514 Summit Court,Sabina-Mattfeldt,3,38.25
+181,21777,Walmart,82167 Russell Junction,Sabina-Mattfeldt,12,44.5
+192,21777,Walmart,655 Union Center,Sabina-Mattfeldt,1,61.375
+196,21777,Walmart,57004 Sauthoff Avenue,Sabina-Mattfeldt,12,83.125
+277,21777,Walmart,1830 Forest Dale Parkway,Sabina-Mattfeldt,5,61.6
+286,21777,Walmart,881 Eagan Way,Sabina-Mattfeldt,3,39.4
+363,21777,Walmart,51591 Morning Trail,Sabina-Mattfeldt,7,75
+372,21777,Walmart,2 Texas Lane,Sabina-Mattfeldt,3,30.333333333333332
+377,21777,Walmart,47909 John Wall Avenue,Sabina-Mattfeldt,2,52.5
+393,21777,Walmart,25 Corscot Road,Sabina-Mattfeldt,10,30.833333333333332
+407,21777,Walmart,1062 Brickson Park Pass,Sabina-Mattfeldt,7,35
+411,21777,Walmart,53066 Sycamore Pass,Sabina-Mattfeldt,12,59.833333333333336
+428,21777,Walmart,7 Mayfield Crossing,Sabina-Mattfeldt,6,80.5
+441,21777,Walmart,329 Blackbird Crossing,Sabina-Mattfeldt,2,65
+457,21777,Walmart,7140 Springview Pass,Sabina-Mattfeldt,9,59.666666666666664
+466,21777,Walmart,0855 Eagan Lane,Sabina-Mattfeldt,8,50.2
+511,21777,Walmart,985 West Road,Sabina-Mattfeldt,5,54
+516,21777,Walmart,4 Anniversary Plaza,Sabina-Mattfeldt,3,45
+561,21777,Walmart,81058 Goodland Place,Sabina-Mattfeldt,2,35.8
+595,21777,Walmart,0 Cambridge Court,Sabina-Mattfeldt,4,51.25
+631,21777,Walmart,92 Del Sol Alley,Sabina-Mattfeldt,8,57.333333333333336
+652,21777,Walmart,3719 Moose Alley,Sabina-Mattfeldt,1,41.444444444444443
+658,21777,Walmart,369 Fairfield Pass,Sabina-Mattfeldt,4,60.166666666666664
+712,21777,Walmart,71 Wayridge Point,Sabina-Mattfeldt,4,34.5
+727,21777,Walmart,881 Lakewood Gardens Point,Sabina-Mattfeldt,9,40.5
+809,21777,Walmart,0 Fairview Point,Sabina-Mattfeldt,7,50.5
+915,21777,Walmart,1311 Jenna Parkway,Sabina-Mattfeldt,6,48.857142857142854
+936,21777,Walmart,867 Fallview Junction,Sabina-Mattfeldt,5,64.333333333333329
+969,21777,Walmart,660 Esker Alley,Sabina-Mattfeldt,5,55.666666666666664
+976,21777,Walmart,93318 Cascade Park,Sabina-Mattfeldt,1,64.714285714285708
+979,21777,Walmart,29193 Lunder Lane,Sabina-Mattfeldt,2,55.666666666666671
+993,21777,Walmart,59238 Shopko Terrace,Sabina-Mattfeldt,6,80.5
+996,21777,Walmart,7 Roxbury Place,Sabina-Mattfeldt,3,35.25
+79,10002,T.J. Maxx,4591 Crownhardt Place,Seton Business Park,9,69
+87,10002,T.J. Maxx,19077 Service Drive,Seton Business Park,10,71.666666666666671
+97,10002,T.J. Maxx,46172 Marquette Park,Seton Business Park,1,58.142857142857139
+108,10002,T.J. Maxx,285 Evergreen Circle,Seton Business Park,12,71.4
+140,10002,T.J. Maxx,73083 Darwin Park,Seton Business Park,4,36.5
+178,10002,T.J. Maxx,0124 Kingsford Hill,Seton Business Park,1,59.125
+206,10002,T.J. Maxx,308 Forest Run Pass,Seton Business Park,12,34.166666666666671
+234,10002,T.J. Maxx,494 Artisan Junction,Seton Business Park,2,71.4
+241,10002,T.J. Maxx,0 Montana Court,Seton Business Park,9,53
+262,10002,T.J. Maxx,7905 Eastwood Crossing,Seton Business Park,4,49.333333333333336
+278,10002,T.J. Maxx,2613 Shoshone Drive,Seton Business Park,1,64.833333333333329
+287,10002,T.J. Maxx,31187 Maywood Trail,Seton Business Park,11,40.666666666666664
+322,10002,T.J. Maxx,36 Main Pass,Seton Business Park,11,40.666666666666671
+324,10002,T.J. Maxx,7480 Main Drive,Seton Business Park,6,52.2
+361,10002,T.J. Maxx,7908 Lukken Hill,Seton Business Park,8,54.714285714285715
+388,10002,T.J. Maxx,0 North Place,Seton Business Park,1,45.666666666666671
+389,10002,T.J. Maxx,9152 Fremont Alley,Seton Business Park,12,44.599999999999994
+427,10002,T.J. Maxx,9 Morningstar Crossing,Seton Business Park,8,32.999999999999993
+445,10002,T.J. Maxx,69567 Loomis Plaza,Seton Business Park,3,36.428571428571423
+474,10002,T.J. Maxx,1 Schmedeman Crossing,Seton Business Park,2,39
+514,10002,T.J. Maxx,6 Stang Circle,Seton Business Park,10,47.5
+553,10002,T.J. Maxx,0385 Rockefeller Plaza,Seton Business Park,9,46.4
+570,10002,T.J. Maxx,3 Hollow Ridge Court,Seton Business Park,6,69.75
+647,10002,T.J. Maxx,791 Corben Lane,Seton Business Park,10,79.5
+689,10002,T.J. Maxx,040 Dexter Street,Seton Business Park,6,81.857142857142847
+716,10002,T.J. Maxx,002 Karstens Crossing,Seton Business Park,1,38
+760,10002,T.J. Maxx,82 Warbler Circle,Seton Business Park,12,51.5
+784,10002,T.J. Maxx,6 Shelley Parkway,Seton Business Park,3,44.571428571428577
+820,10002,T.J. Maxx,926 La Follette Parkway,Seton Business Park,8,38.375
+826,10002,T.J. Maxx,330 Ludington Junction,Seton Business Park,9,54.2
+836,10002,T.J. Maxx,3068 Cardinal Park,Seton Business Park,4,7.5
+848,10002,T.J. Maxx,9 Anhalt Center,Seton Business Park,5,60.714285714285708
+923,10002,T.J. Maxx,24 Summit Center,Seton Business Park,7,42.5
+951,10002,T.J. Maxx,10 Cascade Drive,Seton Business Park,12,69.75
+967,10002,T.J. Maxx,5 Hanson Court,Seton Business Park,10,59.666666666666664
+981,10002,T.J. Maxx,6 Mayfield Terrace,Seton Business Park,10,31.75
+987,10002,T.J. Maxx,98 Lake View Junction,Seton Business Park,1,54.857142857142854
+997,10002,T.J. Maxx,9476 Morrow Trail,Seton Business Park,12,55.285714285714292
+128,21791,Dollar Tree,805 Eggendart Plaza,Mondawmin,3,60.714285714285715
+131,21791,Dollar Tree,83 South Place,Mondawmin,7,46.888888888888886
+193,21791,Dollar Tree,0 Merry Hill,Mondawmin,9,43.857142857142854
+216,21791,Dollar Tree,80659 Crownhardt Junction,Mondawmin,11,40
+301,21791,Dollar Tree,88 Almo Junction,Mondawmin,3,33.5
+351,21791,Dollar Tree,1 Fordem Way,Mondawmin,10,46.666666666666664
+375,21791,Dollar Tree,5193 Moland Hill,Mondawmin,2,33.666666666666664
+390,21791,Dollar Tree,586 Ruskin Park,Mondawmin,6,55
+439,21791,Dollar Tree,52658 Doe Crossing Crossing,Mondawmin,5,44.833333333333336
+465,21791,Dollar Tree,6 Portage Lane,Mondawmin,10,78.666666666666671
+470,21791,Dollar Tree,4 Kedzie Parkway,Mondawmin,4,43.666666666666664
+493,21791,Dollar Tree,7311 Southridge Avenue,Mondawmin,12,32
+532,21791,Dollar Tree,70523 Dixon Parkway,Mondawmin,6,46.142857142857146
+592,21791,Dollar Tree,6 Commercial Trail,Mondawmin,12,35
+616,21791,Dollar Tree,146 Dunning Avenue,Mondawmin,2,44
+623,21791,Dollar Tree,927 Namekagon Center,Mondawmin,8,59
+685,21791,Dollar Tree,1 American Ash Court,Mondawmin,9,65.25
+735,21791,Dollar Tree,12 Waubesa Park,Mondawmin,5,55.833333333333329
+746,21791,Dollar Tree,3867 Arapahoe Hill,Mondawmin,4,46.75
+748,21791,Dollar Tree,7 Fairfield Drive,Mondawmin,1,37.333333333333336
+771,21791,Dollar Tree,05 Schurz Circle,Mondawmin,6,53.090909090909093
+792,21791,Dollar Tree,2 Katie Point,Mondawmin,2,44
+817,21791,Dollar Tree,3987 Hallows Place,Mondawmin,4,34
+849,21791,Dollar Tree,9382 Stephen Trail,Mondawmin,2,47.875
+882,21791,Dollar Tree,81978 Stoughton Parkway,Mondawmin,10,26.2
+884,21791,Dollar Tree,22576 Sullivan Court,Mondawmin,12,57.333333333333336
+897,21791,Dollar Tree,082 Karstens Plaza,Mondawmin,6,46.666666666666664
+905,21791,Dollar Tree,1 Eastlawn Parkway,Mondawmin,5,61.666666666666664
+926,21791,Dollar Tree,67808 Spaight Pass,Mondawmin,12,66.5
+927,21791,Dollar Tree,76 Maywood Court,Mondawmin,6,44
+954,21791,Dollar Tree,53247 Arkansas Parkway,Mondawmin,6,50.857142857142854
+985,21791,Dollar Tree,84 Superior Drive,Mondawmin,12,49.125
+19,22310,Meijer,0 Dryden Park,Ellwood Park/Monument,4,46.714285714285715
+65,22310,Meijer,8 Clove Center,Ellwood Park/Monument,12,55.2
+78,22310,Meijer,8132 High Crossing Street,Ellwood Park/Monument,10,49.833333333333336
+104,22310,Meijer,98 Arkansas Crossing,Ellwood Park/Monument,6,63.6
+116,22310,Meijer,13456 Hayes Avenue,Ellwood Park/Monument,7,55
+135,22310,Meijer,9 Nelson Hill,Ellwood Park/Monument,9,43.166666666666664
+164,22310,Meijer,49695 Quincy Alley,Ellwood Park/Monument,8,55.2
+212,22310,Meijer,16 Welch Avenue,Ellwood Park/Monument,1,52.8
+304,22310,Meijer,3647 Hermina Road,Ellwood Park/Monument,12,45.8
+355,22310,Meijer,41 Scott Parkway,Ellwood Park/Monument,10,43.8
+376,22310,Meijer,26030 Green Lane,Ellwood Park/Monument,3,72.333333333333343
+406,22310,Meijer,31 Upham Park,Ellwood Park/Monument,10,84.666666666666671
+459,22310,Meijer,74 Dryden Trail,Ellwood Park/Monument,10,28.8
+501,22310,Meijer,0969 Menomonie Drive,Ellwood Park/Monument,8,55.75
+504,22310,Meijer,9327 Eastwood Avenue,Ellwood Park/Monument,10,35.428571428571431
+508,22310,Meijer,6 Dwight Way,Ellwood Park/Monument,6,44.666666666666671
+520,22310,Meijer,058 Fairfield Place,Ellwood Park/Monument,5,32.555555555555557
+546,22310,Meijer,51152 Independence Alley,Ellwood Park/Monument,1,69.428571428571431
+629,22310,Meijer,1 Hovde Junction,Ellwood Park/Monument,11,64
+633,22310,Meijer,3375 Muir Street,Ellwood Park/Monument,4,47.777777777777786
+675,22310,Meijer,740 Blackbird Junction,Ellwood Park/Monument,4,36.636363636363633
+679,22310,Meijer,4706 Dorton Hill,Ellwood Park/Monument,12,57
+698,22310,Meijer,3 Monica Way,Ellwood Park/Monument,7,48
+703,22310,Meijer,873 Northwestern Crossing,Ellwood Park/Monument,4,55.000000000000007
+711,22310,Meijer,34 Bayside Center,Ellwood Park/Monument,7,62.666666666666664
+736,22310,Meijer,976 Rusk Junction,Ellwood Park/Monument,9,40.4
+744,22310,Meijer,3776 Rigney Road,Ellwood Park/Monument,9,62.75
+757,22310,Meijer,03754 Northport Park,Ellwood Park/Monument,7,36.333333333333329
+770,22310,Meijer,117 Jay Lane,Ellwood Park/Monument,7,77.5
+800,22310,Meijer,3613 Columbus Road,Ellwood Park/Monument,7,24.666666666666668
+845,22310,Meijer,42 Morrow Alley,Ellwood Park/Monument,1,60.333333333333329
+847,22310,Meijer,9437 Rowland Alley,Ellwood Park/Monument,6,80.2
+134,21035,Bargain Hunt,517 David Park,Mount Holly,2,46.25
+173,21035,Bargain Hunt,72321 Stuart Road,Mount Holly,4,51
+185,21035,Bargain Hunt,5 Autumn Leaf Pass,Mount Holly,4,104
+233,21035,Bargain Hunt,4 Lawn Lane,Mount Holly,7,58.5
+350,21035,Bargain Hunt,28 Dennis Pass,Mount Holly,12,68
+442,21035,Bargain Hunt,51 Twin Pines Point,Mount Holly,7,72.8
+460,21035,Bargain Hunt,2183 Ryan Avenue,Mount Holly,11,36.75
+468,21035,Bargain Hunt,48292 Stoughton Avenue,Mount Holly,11,25.6
+477,21035,Bargain Hunt,197 Mayer Avenue,Mount Holly,5,47.25
+517,21035,Bargain Hunt,46 Myrtle Pass,Mount Holly,7,51.25
+586,21035,Bargain Hunt,1642 Mccormick Trail,Mount Holly,6,42.8
+597,21035,Bargain Hunt,15 Harbort Road,Mount Holly,3,35
+786,21035,Bargain Hunt,077 School Pass,Mount Holly,2,39.833333333333329
+814,21035,Bargain Hunt,51 Sunbrook Plaza,Mount Holly,3,51.428571428571431
+862,21035,Bargain Hunt,75 Park Meadow Crossing,Mount Holly,8,55.363636363636367
+874,21035,Bargain Hunt,8 Glacier Hill Parkway,Mount Holly,11,74.833333333333343
+902,21035,Bargain Hunt,2487 Hovde Terrace,Mount Holly,1,37
+912,21035,Bargain Hunt,5 Vermont Crossing,Mount Holly,6,75
+939,21035,Bargain Hunt,41269 Delladonna Drive,Mount Holly,10,36.666666666666664
+30,48187,Dollar General,42385 Lighthouse Bay Hill,Glen Oaks,12,44.75
+40,48187,Dollar General,5657 Daystar Way,Glen Oaks,7,33
+66,48187,Dollar General,23 6th Drive,Glen Oaks,9,68.5
+122,48187,Dollar General,13538 Ryan Lane,Glen Oaks,1,55.285714285714292
+269,48187,Dollar General,769 Meadow Ridge Junction,Glen Oaks,9,47.666666666666671
+321,48187,Dollar General,28505 Farragut Way,Glen Oaks,7,24.25
+328,48187,Dollar General,79768 Hudson Terrace,Glen Oaks,9,19.25
+398,48187,Dollar General,9680 Ronald Regan Hill,Glen Oaks,8,34.166666666666664
+400,48187,Dollar General,56 Trailsway Place,Glen Oaks,5,61.874999999999993
+409,48187,Dollar General,560 Sunbrook Place,Glen Oaks,7,68.428571428571431
+422,48187,Dollar General,01 Brickson Park Center,Glen Oaks,11,58.800000000000011
+423,48187,Dollar General,21952 Hagan Alley,Glen Oaks,1,46
+436,48187,Dollar General,590 Cottonwood Park,Glen Oaks,9,42
+484,48187,Dollar General,3798 Homewood Park,Glen Oaks,7,42.833333333333336
+610,48187,Dollar General,498 Marquette Point,Glen Oaks,12,58.666666666666664
+620,48187,Dollar General,09 Haas Drive,Glen Oaks,8,36.333333333333329
+646,48187,Dollar General,96 Dovetail Lane,Glen Oaks,8,51.714285714285715
+677,48187,Dollar General,78 Towne Place,Glen Oaks,7,61.222222222222229
+704,48187,Dollar General,89 Ramsey Plaza,Glen Oaks,9,48
+718,48187,Dollar General,78740 Waxwing Circle,Glen Oaks,1,58
+785,48187,Dollar General,22138 Lukken Point,Glen Oaks,3,58.000000000000007
+793,48187,Dollar General,99 Independence Street,Glen Oaks,3,34.4
+871,48187,Dollar General,49847 Petterle Circle,Glen Oaks,7,53.166666666666671
+873,48187,Dollar General,48816 Bartillon Place,Glen Oaks,11,46.333333333333336
+906,48187,Dollar General,34 Cascade Plaza,Glen Oaks,11,62.375
+913,48187,Dollar General,5693 Bultman Road,Glen Oaks,7,52.666666666666671
+946,48187,Dollar General,28 Sutteridge Alley,Glen Oaks,10,36.75
+956,48187,Dollar General,880 Fairview Avenue,Glen Oaks,5,62
+959,48187,Dollar General,6531 Dapin Plaza,Glen Oaks,10,51.571428571428569
+977,48187,Dollar General,77 West Lane,Glen Oaks,9,45.5
+4,84029,Ocean State Job Lot,684 Bunting Lane,Fells Point,1,63.444444444444443
+16,84029,Ocean State Job Lot,0 Cottonwood Pass,Fells Point,5,61.5
+113,84029,Ocean State Job Lot,69 Iowa Center,Fells Point,1,76
+165,84029,Ocean State Job Lot,84 Bellgrove Lane,Fells Point,3,47.374999999999993
+180,84029,Ocean State Job Lot,581 Buhler Parkway,Fells Point,7,12.875
+195,84029,Ocean State Job Lot,3627 Elka Center,Fells Point,2,71.125
+205,84029,Ocean State Job Lot,052 Di Loreto Circle,Fells Point,12,62.5
+208,84029,Ocean State Job Lot,86009 Summer Ridge Alley,Fells Point,8,42.6
+223,84029,Ocean State Job Lot,14 Mariners Cove Alley,Fells Point,10,59.8
+306,84029,Ocean State Job Lot,05 Atwood Drive,Fells Point,10,58
+367,84029,Ocean State Job Lot,208 Barnett Junction,Fells Point,2,67.75
+424,84029,Ocean State Job Lot,8 Westerfield Hill,Fells Point,11,43.333333333333336
+482,84029,Ocean State Job Lot,2 Iowa Avenue,Fells Point,6,53.666666666666671
+485,84029,Ocean State Job Lot,76237 Lien Center,Fells Point,6,47
+487,84029,Ocean State Job Lot,0 Cambridge Trail,Fells Point,3,61.571428571428577
+513,84029,Ocean State Job Lot,67664 Atwood Court,Fells Point,6,50.333333333333336
+525,84029,Ocean State Job Lot,5 Pankratz Way,Fells Point,12,52.5
+558,84029,Ocean State Job Lot,35 Division Park,Fells Point,3,52.25
+598,84029,Ocean State Job Lot,68 Di Loreto Park,Fells Point,5,50.624999999999993
+690,84029,Ocean State Job Lot,1 Novick Parkway,Fells Point,10,49.333333333333336
+713,84029,Ocean State Job Lot,5377 Burrows Hill,Fells Point,2,79.333333333333343
+827,84029,Ocean State Job Lot,89551 Waywood Junction,Fells Point,3,52
+830,84029,Ocean State Job Lot,5 Golf Center,Fells Point,7,68.857142857142847
+876,84029,Ocean State Job Lot,83 Del Sol Crossing,Fells Point,3,35.8
+920,84029,Ocean State Job Lot,3 1st Court,Fells Point,5,44.727272727272727
+928,84029,Ocean State Job Lot,24347 Stone Corner Road,Fells Point,1,42.5
+942,84029,Ocean State Job Lot,038 Ridgeway Circle,Fells Point,9,39.444444444444443
+5,37444,Ollie's Bargain Outlet,50162 John Wall Drive,Charles Village,3,41.833333333333336
+14,37444,Ollie's Bargain Outlet,828 Iowa Parkway,Charles Village,11,51.666666666666664
+22,37444,Ollie's Bargain Outlet,5 Warner Parkway,Charles Village,4,66.25
+71,37444,Ollie's Bargain Outlet,0317 Pond Hill,Charles Village,1,69.714285714285708
+88,37444,Ollie's Bargain Outlet,08032 Pennsylvania Avenue,Charles Village,3,59.666666666666671
+133,37444,Ollie's Bargain Outlet,23 Esch Center,Charles Village,5,35.75
+167,37444,Ollie's Bargain Outlet,00109 Forest Run Point,Charles Village,1,33.6
+184,37444,Ollie's Bargain Outlet,4 Cascade Terrace,Charles Village,4,71
+191,37444,Ollie's Bargain Outlet,8 Vidon Place,Charles Village,10,
+204,37444,Ollie's Bargain Outlet,33113 Arizona Avenue,Charles Village,7,44.166666666666664
+207,37444,Ollie's Bargain Outlet,303 Atwood Way,Charles Village,10,63.142857142857139
+209,37444,Ollie's Bargain Outlet,125 Lakewood Gardens Trail,Charles Village,1,44
+307,37444,Ollie's Bargain Outlet,15 Mesta Alley,Charles Village,2,64
+332,37444,Ollie's Bargain Outlet,22711 Shelley Park,Charles Village,3,42.111111111111114
+345,37444,Ollie's Bargain Outlet,8753 Autumn Leaf Circle,Charles Village,4,53.6
+347,37444,Ollie's Bargain Outlet,7 Merchant Way,Charles Village,2,55.25
+348,37444,Ollie's Bargain Outlet,038 Hovde Junction,Charles Village,12,59.25
+349,37444,Ollie's Bargain Outlet,0 Truax Crossing,Charles Village,1,34.5
+402,37444,Ollie's Bargain Outlet,75 Rieder Avenue,Charles Village,7,38.428571428571431
+450,37444,Ollie's Bargain Outlet,25 Scoville Crossing,Charles Village,8,38.875
+492,37444,Ollie's Bargain Outlet,81 Petterle Trail,Charles Village,4,34.857142857142861
+535,37444,Ollie's Bargain Outlet,818 Farwell Trail,Charles Village,12,48.444444444444436
+555,37444,Ollie's Bargain Outlet,730 Buell Way,Charles Village,10,57
+559,37444,Ollie's Bargain Outlet,84871 Union Crossing,Charles Village,9,66.5
+603,37444,Ollie's Bargain Outlet,26 Sutherland Place,Charles Village,1,52.714285714285708
+683,37444,Ollie's Bargain Outlet,8 Glendale Drive,Charles Village,4,57.333333333333329
+728,37444,Ollie's Bargain Outlet,35 Kinsman Crossing,Charles Village,7,54
+781,37444,Ollie's Bargain Outlet,6 Hoard Junction,Charles Village,3,41.285714285714285
+819,37444,Ollie's Bargain Outlet,162 Laurel Street,Charles Village,3,55
+880,37444,Ollie's Bargain Outlet,2377 Coolidge Road,Charles Village,7,67.666666666666671
+931,37444,Ollie's Bargain Outlet,988 Michigan Avenue,Charles Village,8,61.571428571428577
+932,37444,Ollie's Bargain Outlet,5 Independence Crossing,Charles Village,6,71
+986,37444,Ollie's Bargain Outlet,40 Blue Bill Park Pass,Charles Village,9,52.5
+24,22622,Target,4496 Killdeer Court,Hoes Heights,3,54.75
+72,22622,Target,4 4th Terrace,Hoes Heights,11,18
+80,22622,Target,93 Basil Trail,Hoes Heights,2,65.75
+166,22622,Target,17 Kim Circle,Hoes Heights,3,71.75
+174,22622,Target,22 Mifflin Junction,Hoes Heights,3,44.75
+221,22622,Target,06038 Talisman Park,Hoes Heights,7,57.666666666666664
+274,22622,Target,0 Lakeland Junction,Hoes Heights,3,55.555555555555557
+335,22622,Target,25 Toban Road,Hoes Heights,3,54.571428571428577
+399,22622,Target,5 Armistice Hill,Hoes Heights,2,69.4
+497,22622,Target,1737 Hudson Hill,Hoes Heights,9,53.666666666666664
+635,22622,Target,9 Randy Road,Hoes Heights,12,49.571428571428569
+638,22622,Target,831 Oxford Way,Hoes Heights,4,54
+707,22622,Target,0431 Aberg Center,Hoes Heights,3,36.444444444444443
+790,22622,Target,75984 Lerdahl Terrace,Hoes Heights,7,56.4
+807,22622,Target,335 Norway Maple Junction,Hoes Heights,12,25.833333333333336
+883,22622,Target,01 Delladonna Terrace,Hoes Heights,6,32.666666666666671
+886,22622,Target,25 Norway Maple Plaza,Hoes Heights,11,40.571428571428577
+953,22622,Target,02193 Mifflin Avenue,Hoes Heights,1,60.666666666666664
+975,22622,Target,1 Lien Parkway,Hoes Heights,5,42
+978,22622,Target,0964 Schmedeman Drive,Hoes Heights,3,39
+983,22622,Target,302 Sundown Way,Hoes Heights,5,60.75
+984,22622,Target,50768 Karstens Street,Hoes Heights,4,44.888888888888886
+23,22623,Gordmans,353 Blackbird Avenue,Hampden,3,31.333333333333332
+43,22623,Gordmans,4621 Burrows Hill,Hampden,10,62.4
+93,22623,Gordmans,07 Carpenter Place,Hampden,3,50.2
+95,22623,Gordmans,86944 Darwin Plaza,Hampden,9,36.4
+109,22623,Gordmans,7 Cardinal Terrace,Hampden,10,23
+222,22623,Gordmans,60 Dennis Crossing,Hampden,6,48.999999999999993
+272,22623,Gordmans,73345 Briar Crest Point,Hampden,2,65.714285714285708
+370,22623,Gordmans,313 Transport Court,Hampden,8,31
+418,22623,Gordmans,521 Pierstorff Pass,Hampden,2,48.857142857142861
+435,22623,Gordmans,2474 Upham Plaza,Hampden,1,62.4
+448,22623,Gordmans,4 Elka Street,Hampden,3,30.4
+453,22623,Gordmans,6339 Village Green Street,Hampden,1,45.25
+542,22623,Gordmans,5169 Waywood Court,Hampden,3,57.285714285714285
+544,22623,Gordmans,2386 Raven Junction,Hampden,11,56
+609,22623,Gordmans,93903 Maple Parkway,Hampden,4,52.75
+619,22623,Gordmans,7103 Truax Crossing,Hampden,2,42
+682,22623,Gordmans,0 Prairieview Point,Hampden,6,57.2
+719,22623,Gordmans,27 Norway Maple Terrace,Hampden,2,54.625
+795,22623,Gordmans,03669 7th Alley,Hampden,9,40
+813,22623,Gordmans,0 Manley Junction,Hampden,11,37.222222222222221
+816,22623,Gordmans,324 Northport Center,Hampden,10,36
+828,22623,Gordmans,0 Vermont Parkway,Hampden,4,54.166666666666671
+895,22623,Gordmans,2230 Evergreen Pass,Hampden,1,33
+921,22623,Gordmans,1 Bartelt Road,Hampden,5,90.25
+966,22623,Gordmans,168 Tomscot Junction,Hampden,4,47.4
+11,22632,HomeGoods,689 Vera Pass,Hunting Ridge,4,59
+12,22632,HomeGoods,78107 Logan Plaza,Hunting Ridge,2,23.571428571428573
+20,22632,HomeGoods,92 Heffernan Trail,Hunting Ridge,5,85
+51,22632,HomeGoods,41 Knutson Court,Hunting Ridge,7,55.8
+82,22632,HomeGoods,85 Hayes Crossing,Hunting Ridge,8,48.571428571428569
+102,22632,HomeGoods,6286 Knutson Alley,Hunting Ridge,12,35.142857142857139
+153,22632,HomeGoods,14852 Jenna Avenue,Hunting Ridge,1,47.2
+315,22632,HomeGoods,49989 Lerdahl Center,Hunting Ridge,10,88.333333333333329
+340,22632,HomeGoods,32 Bluestem Park,Hunting Ridge,8,59.125
+396,22632,HomeGoods,542 Browning Place,Hunting Ridge,6,44
+483,22632,HomeGoods,10883 West Way,Hunting Ridge,3,60.25
+526,22632,HomeGoods,38 Leroy Park,Hunting Ridge,11,52.666666666666664
+584,22632,HomeGoods,68 Hoffman Park,Hunting Ridge,12,50.222222222222221
+641,22632,HomeGoods,29 7th Place,Hunting Ridge,1,69.833333333333329
+644,22632,HomeGoods,2188 Fieldstone Park,Hunting Ridge,1,58.8
+661,22632,HomeGoods,1809 Melrose Street,Hunting Ridge,8,34.8
+671,22632,HomeGoods,0278 Manley Terrace,Hunting Ridge,6,23.5
+680,22632,HomeGoods,09458 Dovetail Place,Hunting Ridge,6,59.800000000000004
+684,22632,HomeGoods,520 Grim Pass,Hunting Ridge,8,42.75
+708,22632,HomeGoods,6236 Delladonna Parkway,Hunting Ridge,1,37.571428571428569
+717,22632,HomeGoods,162 Farragut Point,Hunting Ridge,10,40.6
+729,22632,HomeGoods,70872 Northland Alley,Hunting Ridge,5,
+750,22632,HomeGoods,251 Mallard Trail,Hunting Ridge,3,58.6
+752,22632,HomeGoods,504 Dorton Parkway,Hunting Ridge,6,31.333333333333332
+763,22632,HomeGoods,811 Rockefeller Avenue,Hunting Ridge,5,49.8
+857,22632,HomeGoods,539 Merry Junction,Hunting Ridge,8,54.111111111111114
+10,22633,Big Lots,175 Kim Place,Brooklyn,7,43.666666666666664
+58,22633,Big Lots,868 Atwood Park,Brooklyn,10,65
+94,22633,Big Lots,6086 Spenser Plaza,Brooklyn,10,79.8
+130,22633,Big Lots,947 Kingsford Parkway,Brooklyn,2,17.666666666666668
+138,22633,Big Lots,4 Hayes Crossing,Brooklyn,1,87.5
+158,22633,Big Lots,46 Schlimgen Hill,Brooklyn,9,94
+160,22633,Big Lots,3440 Mcbride Court,Brooklyn,3,55
+228,22633,Big Lots,96660 Arapahoe Road,Brooklyn,8,76.5
+243,22633,Big Lots,81811 Debra Pass,Brooklyn,10,51
+537,22633,Big Lots,0462 Iowa Lane,Brooklyn,5,42.666666666666671
+541,22633,Big Lots,351 Pawling Hill,Brooklyn,12,60.2
+569,22633,Big Lots,7756 Bay Street,Brooklyn,10,46.625
+589,22633,Big Lots,2282 Waxwing Point,Brooklyn,8,60.75
+651,22633,Big Lots,715 Debra Crossing,Brooklyn,2,35.4
+654,22633,Big Lots,39 Crest Line Terrace,Brooklyn,8,59.8
+733,22633,Big Lots,59492 Macpherson Center,Brooklyn,4,56.666666666666664
+745,22633,Big Lots,4650 Linden Road,Brooklyn,3,45.333333333333329
+778,22633,Big Lots,1 La Follette Drive,Brooklyn,4,71.25
+796,22633,Big Lots,1943 Sloan Circle,Brooklyn,6,57.75
+950,22633,Big Lots,715 Del Sol Road,Brooklyn,2,33.6
+1000,22633,Big Lots,99 Granby Place,Brooklyn,2,60.625000000000007
+74,21883,Bi-Mart,2 Nelson Alley,Washington Village,1,72.833333333333343
+119,21883,Bi-Mart,7 Rockefeller Parkway,Washington Village,3,46.25
+150,21883,Bi-Mart,58468 Armistice Drive,Washington Village,1,72.875
+159,21883,Bi-Mart,43 Spohn Crossing,Washington Village,12,64.5
+215,21883,Bi-Mart,95 Clove Court,Washington Village,11,86.142857142857153
+413,21883,Bi-Mart,5 Merrick Way,Washington Village,8,62.285714285714285
+563,21883,Bi-Mart,29216 Fisk Place,Washington Village,1,36.714285714285715
+590,21883,Bi-Mart,718 Merchant Center,Washington Village,12,47.5
+637,21883,Bi-Mart,02135 Lake View Pass,Washington Village,7,59.999999999999993
+700,21883,Bi-Mart,5557 Tennessee Avenue,Washington Village,11,51.142857142857146
+705,21883,Bi-Mart,0 Meadow Vale Hill,Washington Village,3,41.777777777777771
+833,21883,Bi-Mart,2 Stoughton Place,Washington Village,8,42.727272727272727
+839,21883,Bi-Mart,36439 Brickson Park Point,Washington Village,2,61.166666666666664
+894,21883,Bi-Mart,0785 Kensington Plaza,Washington Village,10,48.5
+909,21883,Bi-Mart,285 Harbort Center,Washington Village,6,27
+945,21883,Bi-Mart,8614 Ridgeway Center,Washington Village,8,87
+948,21883,Bi-Mart,6 Dottie Circle,Washington Village,1,63
+990,21883,Bi-Mart,2 Schmedeman Park,Washington Village,10,9
+44,22912,Marshalls,00189 Jana Plaza,Central Park Heights,5,71
+52,22912,Marshalls,25554 Laurel Alley,Central Park Heights,1,60.375
+67,22912,Marshalls,2 Lawn Terrace,Central Park Heights,4,43.666666666666664
+76,22912,Marshalls,9 Iowa Terrace,Central Park Heights,12,53.285714285714285
+84,22912,Marshalls,96 Crownhardt Court,Central Park Heights,5,54.2
+127,22912,Marshalls,13 Melody Avenue,Central Park Heights,12,25
+202,22912,Marshalls,79174 Eliot Plaza,Central Park Heights,9,22.75
+217,22912,Marshalls,35 Thackeray Road,Central Park Heights,2,55.333333333333336
+263,22912,Marshalls,256 Grover Lane,Central Park Heights,5,52.5
+266,22912,Marshalls,4 Crownhardt Crossing,Central Park Heights,3,59
+294,22912,Marshalls,59345 Dryden Court,Central Park Heights,9,45.666666666666671
+356,22912,Marshalls,6965 School Point,Central Park Heights,9,57.400000000000006
+364,22912,Marshalls,3516 Bay Pass,Central Park Heights,11,36
+421,22912,Marshalls,4633 Marquette Way,Central Park Heights,9,18.5
+430,22912,Marshalls,3 Trailsway Trail,Central Park Heights,11,28.333333333333332
+500,22912,Marshalls,26230 Nova Hill,Central Park Heights,3,61.333333333333336
+515,22912,Marshalls,2076 Esch Avenue,Central Park Heights,6,61.5
+528,22912,Marshalls,84326 Texas Parkway,Central Park Heights,7,37.8
+529,22912,Marshalls,53 Mitchell Way,Central Park Heights,6,41.4
+533,22912,Marshalls,47963 Bartelt Point,Central Park Heights,5,53.333333333333336
+587,22912,Marshalls,5 Moulton Junction,Central Park Heights,12,25.333333333333336
+648,22912,Marshalls,0925 Lerdahl Lane,Central Park Heights,8,52.333333333333329
+759,22912,Marshalls,05 Judy Terrace,Central Park Heights,8,34.25
+777,22912,Marshalls,3 Glendale Point,Central Park Heights,1,83.2
+801,22912,Marshalls,31 Vera Junction,Central Park Heights,8,78.571428571428569
+803,22912,Marshalls,1 Ronald Regan Avenue,Central Park Heights,4,45.222222222222221
+811,22912,Marshalls,38 Mosinee Pass,Central Park Heights,1,46.25
+850,22912,Marshalls,59834 Forster Junction,Central Park Heights,4,46.8
+861,22912,Marshalls,56063 La Follette Parkway,Central Park Heights,10,84.333333333333329
+889,22912,Marshalls,9 Merry Crossing,Central Park Heights,2,75.5
+898,22912,Marshalls,0140 American Park,Central Park Heights,10,46.25
+929,22912,Marshalls,4 Katie Trail,Central Park Heights,10,46.5
+940,22912,Marshalls,8 Lukken Terrace,Central Park Heights,6,69
+42,22913,Stein Mart,8668 Lakewood Gardens Road,Gay Street,6,60
+46,22913,Stein Mart,42543 Chinook Road,Gay Street,9,57.499999999999993
+96,22913,Stein Mart,65 School Alley,Gay Street,11,47
+162,22913,Stein Mart,68257 Bellgrove Way,Gay Street,9,67.4
+226,22913,Stein Mart,8 Pleasure Drive,Gay Street,3,47.333333333333329
+237,22913,Stein Mart,9957 Gerald Alley,Gay Street,1,60.6
+253,22913,Stein Mart,37754 La Follette Avenue,Gay Street,9,44.666666666666664
+258,22913,Stein Mart,10 Burning Wood Parkway,Gay Street,5,59
+316,22913,Stein Mart,7774 Eliot Junction,Gay Street,8,34.875
+323,22913,Stein Mart,0966 Mayfield Street,Gay Street,12,55.5
+341,22913,Stein Mart,8402 Luster Parkway,Gay Street,3,44.111111111111114
+381,22913,Stein Mart,545 Division Point,Gay Street,3,52.374999999999993
+531,22913,Stein Mart,8946 Crescent Oaks Center,Gay Street,3,32.5
+543,22913,Stein Mart,63 Marcy Crossing,Gay Street,12,23.5
+634,22913,Stein Mart,88 Oxford Hill,Gay Street,4,53
+640,22913,Stein Mart,52504 Northwestern Court,Gay Street,7,83
+643,22913,Stein Mart,05 Upham Road,Gay Street,1,69.428571428571431
+672,22913,Stein Mart,3133 Farragut Center,Gay Street,8,46.285714285714292
+694,22913,Stein Mart,09391 Vernon Terrace,Gay Street,10,50.125000000000007
+739,22913,Stein Mart,01 Mallory Drive,Gay Street,8,39.571428571428577
+768,22913,Stein Mart,4 Rockefeller Point,Gay Street,4,49.625
+780,22913,Stein Mart,26 Bobwhite Alley,Gay Street,8,38
+782,22913,Stein Mart,104 Marcy Hill,Gay Street,6,50.5
+831,22913,Stein Mart,782 Bobwhite Drive,Gay Street,10,68.166666666666671
+855,22913,Stein Mart,4 New Castle Circle,Gay Street,12,59.625
+859,22913,Stein Mart,4 2nd Hill,Gay Street,3,47.6
+892,22913,Stein Mart,31458 Calypso Alley,Gay Street,2,92
+911,22913,Stein Mart,5 Orin Hill,Gay Street,12,62
+914,22913,Stein Mart,2 Esch Park,Gay Street,7,64
+918,22913,Stein Mart,4 Swallow Center,Gay Street,12,45.333333333333329
+963,22913,Stein Mart,0845 Goodland Street,Gay Street,10,14.5
+47,22914,Five Below,7329 Esch Avenue,Washington Village,11,50.4
+111,22914,Five Below,57326 Thierer Center,Washington Village,7,53
+124,22914,Five Below,47 Claremont Junction,Washington Village,3,38.777777777777779
+137,22914,Five Below,83 Michigan Circle,Washington Village,6,66.166666666666671
+200,22914,Five Below,68 Jenna Parkway,Washington Village,8,43.666666666666664
+247,22914,Five Below,22 Northland Plaza,Washington Village,5,48
+251,22914,Five Below,55750 Village Way,Washington Village,5,46.5
+281,22914,Five Below,23 Doe Crossing Center,Washington Village,2,55.4
+289,22914,Five Below,9 Harbort Alley,Washington Village,5,50.25
+314,22914,Five Below,795 Sloan Avenue,Washington Village,3,63.8
+395,22914,Five Below,1 Barby Way,Washington Village,8,32
+429,22914,Five Below,496 Heffernan Park,Washington Village,5,22.142857142857142
+449,22914,Five Below,8 Boyd Court,Washington Village,2,42.166666666666671
+475,22914,Five Below,59 Westridge Hill,Washington Village,5,86
+518,22914,Five Below,0 Fairview Junction,Washington Village,2,71.444444444444443
+523,22914,Five Below,680 Ramsey Road,Washington Village,3,68.375
+527,22914,Five Below,55 Hoepker Road,Washington Village,5,52.333333333333336
+549,22914,Five Below,0 Starling Pass,Washington Village,5,38.285714285714285
+554,22914,Five Below,10759 Homewood Avenue,Washington Village,6,50.833333333333336
+608,22914,Five Below,6 Bunker Hill Park,Washington Village,1,62.75
+667,22914,Five Below,22 Bartillon Junction,Washington Village,3,65.8
+676,22914,Five Below,89458 Veith Center,Washington Village,4,69.75
+761,22914,Five Below,3089 Porter Drive,Washington Village,3,41.5
+900,22914,Five Below,8971 Di Loreto Point,Washington Village,2,28
+903,22914,Five Below,223 Sheridan Trail,Washington Village,10,71.6
+982,22914,Five Below,4703 Blue Bill Park Point,Washington Village,11,50.428571428571431
+1,85123,National Stores,9 Springview Point,Bolton Hill,11,16.75
+37,85123,National Stores,8 Hudson Crossing,Bolton Hill,4,37.875
+56,85123,National Stores,54321 Waxwing Crossing,Bolton Hill,2,37
+86,85123,National Stores,7588 Hudson Hill,Bolton Hill,12,58.4
+249,85123,National Stores,26 Straubel Hill,Bolton Hill,3,42.8
+257,85123,National Stores,925 Pennsylvania Parkway,Bolton Hill,8,43.18181818181818
+264,85123,National Stores,60899 Westport Way,Bolton Hill,7,23
+292,85123,National Stores,73 Mcbride Way,Bolton Hill,4,42.4
+311,85123,National Stores,2183 Paget Terrace,Bolton Hill,12,41.875000000000007
+374,85123,National Stores,5787 Dexter Hill,Bolton Hill,12,60.75
+426,85123,National Stores,4 Fallview Trail,Bolton Hill,10,63
+494,85123,National Stores,4 Dixon Junction,Bolton Hill,11,49.666666666666664
+510,85123,National Stores,9 Spaight Road,Bolton Hill,12,52.4
+565,85123,National Stores,96 Marquette Court,Bolton Hill,12,50.75
+666,85123,National Stores,6 Old Gate Junction,Bolton Hill,4,71.4
+673,85123,National Stores,1370 Scott Alley,Bolton Hill,12,36.4
+720,85123,National Stores,18533 Harbort Road,Bolton Hill,12,77.75
+753,85123,National Stores,48605 Holmberg Park,Bolton Hill,7,68.25
+764,85123,National Stores,0 Cambridge Drive,Bolton Hill,12,47.5
+772,85123,National Stores,5883 Mcbride Alley,Bolton Hill,7,40.625
+775,85123,National Stores,208 Sachs Plaza,Bolton Hill,9,35.285714285714285
+794,85123,National Stores,18 Vera Circle,Bolton Hill,6,68.5
+829,85123,National Stores,178 Derek Crossing,Bolton Hill,6,85
+832,85123,National Stores,968 Nelson Plaza,Bolton Hill,2,41
+834,85123,National Stores,57 Anniversary Crossing,Bolton Hill,8,42
+835,85123,National Stores,0 Butterfield Hill,Bolton Hill,7,58
+844,85123,National Stores,0 Claremont Park,Bolton Hill,8,54.75
+865,85123,National Stores,6 Delladonna Street,Bolton Hill,8,85
+989,85123,National Stores,0 Anthes Road,Bolton Hill,8,50.5
+2,71053,Family Dollar,5434 Daystar Circle,Ashburton,1,52.8
+25,71053,Family Dollar,4 Charing Cross Plaza,Ashburton,1,51
+36,71053,Family Dollar,39 Graceland Place,Ashburton,5,61
+59,71053,Family Dollar,7 Ronald Regan Park,Ashburton,9,58.333333333333336
+107,71053,Family Dollar,3 Transport Circle,Ashburton,1,12
+112,71053,Family Dollar,368 Mallory Plaza,Ashburton,4,62.666666666666671
+126,71053,Family Dollar,47136 Sundown Avenue,Ashburton,12,83.666666666666671
+136,71053,Family Dollar,2 Harper Way,Ashburton,1,47.25
+142,71053,Family Dollar,05873 Dovetail Parkway,Ashburton,8,79.75
+152,71053,Family Dollar,8 Mockingbird Court,Ashburton,4,41.142857142857146
+156,71053,Family Dollar,260 Kinsman Street,Ashburton,11,23.5
+182,71053,Family Dollar,1 Canary Center,Ashburton,1,57.8
+235,71053,Family Dollar,2 Sullivan Pass,Ashburton,3,74.714285714285722
+239,71053,Family Dollar,9 Vahlen Pass,Ashburton,5,54
+320,71053,Family Dollar,74 Aberg Trail,Ashburton,10,50.666666666666671
+373,71053,Family Dollar,91558 Dawn Parkway,Ashburton,7,81.333333333333343
+391,71053,Family Dollar,9773 Glacier Hill Terrace,Ashburton,11,95
+394,71053,Family Dollar,4 South Road,Ashburton,5,57.875
+403,71053,Family Dollar,0 Spenser Road,Ashburton,2,46
+405,71053,Family Dollar,0 Bartillon Pass,Ashburton,7,39
+454,71053,Family Dollar,476 Sauthoff Park,Ashburton,10,69.666666666666671
+491,71053,Family Dollar,7535 Dawn Road,Ashburton,1,54
+505,71053,Family Dollar,2 Clyde Gallagher Street,Ashburton,4,38.777777777777779
+524,71053,Family Dollar,81 Corscot Avenue,Ashburton,12,56.454545454545453
+550,71053,Family Dollar,04830 Sloan Way,Ashburton,5,58.36363636363636
+606,71053,Family Dollar,73 Jackson Street,Ashburton,8,49.888888888888886
+625,71053,Family Dollar,32352 Pond Pass,Ashburton,11,89.857142857142861
+630,71053,Family Dollar,55 Ohio Street,Ashburton,1,50
+738,71053,Family Dollar,81 Milwaukee Street,Ashburton,2,64.25
+788,71053,Family Dollar,681 Hovde Drive,Ashburton,2,72.25
+815,71053,Family Dollar,6 Continental Alley,Ashburton,8,48.285714285714285
+824,71053,Family Dollar,739 Kim Drive,Ashburton,3,34.8
+842,71053,Family Dollar,357 Kings Street,Ashburton,2,29.75
+877,71053,Family Dollar,771 Gerald Way,Ashburton,11,43.6
+908,71053,Family Dollar,92 Vera Parkway,Ashburton,5,62.714285714285715
+957,71053,Family Dollar,72 Gulseth Parkway,Ashburton,4,45.333333333333329
+971,71053,Family Dollar,27 South Terrace,Ashburton,6,51
+980,71053,Family Dollar,53033 Clyde Gallagher Crossing,Ashburton,8,84.5
+13,84879,Ben Franklin,28413 Knutson Park,Bridgeview/Greenlawn,9,66.333333333333329
+31,84879,Ben Franklin,9 Melvin Way,Bridgeview/Greenlawn,11,78.333333333333343
+33,84879,Ben Franklin,496 Cambridge Plaza,Bridgeview/Greenlawn,7,27.8
+81,84879,Ben Franklin,2373 Derek Plaza,Bridgeview/Greenlawn,8,24.666666666666668
+114,84879,Ben Franklin,7 Shoshone Hill,Bridgeview/Greenlawn,7,56
+117,84879,Ben Franklin,7124 Dovetail Trail,Bridgeview/Greenlawn,1,67.000000000000014
+157,84879,Ben Franklin,12375 Almo Junction,Bridgeview/Greenlawn,6,43
+175,84879,Ben Franklin,8425 Mandrake Point,Bridgeview/Greenlawn,11,46
+183,84879,Ben Franklin,6 Westend Plaza,Bridgeview/Greenlawn,11,54.5
+224,84879,Ben Franklin,8 Monica Alley,Bridgeview/Greenlawn,11,74
+232,84879,Ben Franklin,447 Barnett Place,Bridgeview/Greenlawn,12,52.5
+259,84879,Ben Franklin,06 Mcbride Junction,Bridgeview/Greenlawn,3,31.25
+267,84879,Ben Franklin,462 Sunbrook Drive,Bridgeview/Greenlawn,6,82.75
+293,84879,Ben Franklin,946 Waywood Pass,Bridgeview/Greenlawn,7,32.428571428571431
+302,84879,Ben Franklin,1879 Aberg Drive,Bridgeview/Greenlawn,8,41.6
+331,84879,Ben Franklin,9449 Mallory Street,Bridgeview/Greenlawn,12,52
+338,84879,Ben Franklin,633 Arrowood Way,Bridgeview/Greenlawn,10,57.333333333333329
+362,84879,Ben Franklin,22 Mariners Cove Crossing,Bridgeview/Greenlawn,9,54.666666666666664
+371,84879,Ben Franklin,12 Northwestern Court,Bridgeview/Greenlawn,1,64.428571428571431
+384,84879,Ben Franklin,88 Sunfield Trail,Bridgeview/Greenlawn,7,88.666666666666671
+385,84879,Ben Franklin,0 Bartelt Point,Bridgeview/Greenlawn,2,52.571428571428569
+410,84879,Ben Franklin,6634 6th Street,Bridgeview/Greenlawn,10,55.714285714285715
+417,84879,Ben Franklin,88110 Walton Street,Bridgeview/Greenlawn,1,25.285714285714285
+434,84879,Ben Franklin,693 Shasta Center,Bridgeview/Greenlawn,12,28.5
+437,84879,Ben Franklin,66509 Porter Hill,Bridgeview/Greenlawn,1,59.285714285714285
+455,84879,Ben Franklin,743 Continental Terrace,Bridgeview/Greenlawn,3,33.666666666666671
+463,84879,Ben Franklin,51695 Northland Court,Bridgeview/Greenlawn,12,24.8
+472,84879,Ben Franklin,2 Summit Terrace,Bridgeview/Greenlawn,1,47.25
+488,84879,Ben Franklin,05700 Eagle Crest Circle,Bridgeview/Greenlawn,12,52.833333333333329
+539,84879,Ben Franklin,997 Dunning Way,Bridgeview/Greenlawn,7,87.2
+557,84879,Ben Franklin,8435 Tony Place,Bridgeview/Greenlawn,7,54.5
+567,84879,Ben Franklin,34790 Menomonie Place,Bridgeview/Greenlawn,11,71.666666666666671
+577,84879,Ben Franklin,90992 Forest Drive,Bridgeview/Greenlawn,1,60.25
+596,84879,Ben Franklin,24 Burning Wood Point,Bridgeview/Greenlawn,8,67.8
+659,84879,Ben Franklin,375 Elgar Parkway,Bridgeview/Greenlawn,8,57.166666666666671
+695,84879,Ben Franklin,85959 Everett Lane,Bridgeview/Greenlawn,1,60.5
+734,84879,Ben Franklin,05 Graceland Court,Bridgeview/Greenlawn,3,44.8
+741,84879,Ben Franklin,4653 Ludington Court,Bridgeview/Greenlawn,7,58.142857142857139
+751,84879,Ben Franklin,30 Columbus Crossing,Bridgeview/Greenlawn,12,56.81818181818182
+773,84879,Ben Franklin,04357 Eliot Terrace,Bridgeview/Greenlawn,3,37.833333333333336
+776,84879,Ben Franklin,580 Clove Avenue,Bridgeview/Greenlawn,8,59.25
+808,84879,Ben Franklin,49 Lighthouse Bay Lane,Bridgeview/Greenlawn,5,59.375
+823,84879,Ben Franklin,44 Morning Point,Bridgeview/Greenlawn,8,68
+878,84879,Ben Franklin,07 Waywood Road,Bridgeview/Greenlawn,8,64.75
+891,84879,Ben Franklin,794 Armistice Plaza,Bridgeview/Greenlawn,3,39.5
+988,84879,Ben Franklin,09220 John Wall Point,Bridgeview/Greenlawn,12,48.249999999999993
+35,22960,Harbor Freight Tools,40020 Morningstar Crossing,Loch Raven,8,35
+41,22960,Harbor Freight Tools,25036 Division Terrace,Loch Raven,9,37.5
+73,22960,Harbor Freight Tools,88199 Golf Course Center,Loch Raven,4,52.222222222222221
+90,22960,Harbor Freight Tools,01238 Sugar Parkway,Loch Raven,1,32.75
+242,22960,Harbor Freight Tools,1 Londonderry Park,Loch Raven,7,131
+244,22960,Harbor Freight Tools,1 Fulton Hill,Loch Raven,4,43.375
+252,22960,Harbor Freight Tools,58626 Morning Pass,Loch Raven,8,79.75
+299,22960,Harbor Freight Tools,59902 Fisk Road,Loch Raven,11,42
+352,22960,Harbor Freight Tools,4310 Hollow Ridge Street,Loch Raven,5,49
+359,22960,Harbor Freight Tools,75 Haas Trail,Loch Raven,10,45.333333333333329
+366,22960,Harbor Freight Tools,863 Rockefeller Park,Loch Raven,12,57.25
+387,22960,Harbor Freight Tools,7356 South Drive,Loch Raven,8,56.333333333333329
+458,22960,Harbor Freight Tools,79408 Grover Drive,Loch Raven,10,68
+538,22960,Harbor Freight Tools,632 Petterle Junction,Loch Raven,10,51.300000000000004
+545,22960,Harbor Freight Tools,83 Melrose Terrace,Loch Raven,7,12
+578,22960,Harbor Freight Tools,61 Corscot Alley,Loch Raven,12,14.5
+642,22960,Harbor Freight Tools,9404 Orin Circle,Loch Raven,4,66.727272727272748
+688,22960,Harbor Freight Tools,2552 Cascade Drive,Loch Raven,1,42.5
+724,22960,Harbor Freight Tools,901 Gale Parkway,Loch Raven,4,28.666666666666668
+755,22960,Harbor Freight Tools,68238 Pierstorff Hill,Loch Raven,5,33
+806,22960,Harbor Freight Tools,07 Ridgeview Pass,Loch Raven,10,61
+879,22960,Harbor Freight Tools,7196 Morning Hill,Loch Raven,4,85.333333333333329
+885,22960,Harbor Freight Tools,908 Iowa Terrace,Loch Raven,2,76.333333333333329
+904,22960,Harbor Freight Tools,9230 Park Meadow Hill,Loch Raven,10,43.5
+925,22960,Harbor Freight Tools,58332 Talmadge Avenue,Loch Raven,4,18.5
+3,84406,BJ's Wholesale Club,3 Darwin Drive,Morrell Park,11,48.375
+6,84406,BJ's Wholesale Club,8 Fordem Pass,Morrell Park,9,51.285714285714292
+7,84406,BJ's Wholesale Club,89058 Monument Hill,Morrell Park,4,72.285714285714278
+70,84406,BJ's Wholesale Club,2 Brown Plaza,Morrell Park,12,79.125
+75,84406,BJ's Wholesale Club,9565 Arkansas Plaza,Morrell Park,8,62.333333333333336
+101,84406,BJ's Wholesale Club,9 Kipling Road,Morrell Park,11,21
+143,84406,BJ's Wholesale Club,2 Fairfield Court,Morrell Park,11,27.714285714285715
+186,84406,BJ's Wholesale Club,82 Trailsway Junction,Morrell Park,3,49.833333333333336
+218,84406,BJ's Wholesale Club,8 Bobwhite Road,Morrell Park,9,48.714285714285715
+255,84406,BJ's Wholesale Club,904 Mockingbird Junction,Morrell Park,10,44.25
+295,84406,BJ's Wholesale Club,9616 6th Circle,Morrell Park,4,61.75
+308,84406,BJ's Wholesale Club,95130 Columbus Terrace,Morrell Park,8,69.625
+346,84406,BJ's Wholesale Club,6 Green Junction,Morrell Park,6,43.2
+358,84406,BJ's Wholesale Club,8 Redwing Way,Morrell Park,3,31.5
+471,84406,BJ's Wholesale Club,98 Monterey Drive,Morrell Park,3,43.6
+656,84406,BJ's Wholesale Club,3659 Longview Drive,Morrell Park,11,55.833333333333336
+660,84406,BJ's Wholesale Club,6532 Barnett Way,Morrell Park,8,32
+668,84406,BJ's Wholesale Club,9474 Rutledge Junction,Morrell Park,8,69.833333333333343
+687,84406,BJ's Wholesale Club,666 Hoffman Drive,Morrell Park,12,81.666666666666671
+693,84406,BJ's Wholesale Club,20859 Debra Point,Morrell Park,10,38.111111111111114
+766,84406,BJ's Wholesale Club,849 Upham Road,Morrell Park,1,34.75
+769,84406,BJ's Wholesale Club,27 Manitowish Terrace,Morrell Park,3,54
+838,84406,BJ's Wholesale Club,42 Mitchell Way,Morrell Park,11,47.899999999999991
+840,84406,BJ's Wholesale Club,0 Stuart Crossing,Morrell Park,8,81
+863,84406,BJ's Wholesale Club,65905 Superior Plaza,Morrell Park,2,66.333333333333329
+899,84406,BJ's Wholesale Club,0037 Victoria Crossing,Morrell Park,9,89.75
+924,84406,BJ's Wholesale Club,759 David Point,Morrell Park,6,38.874999999999993
+952,84406,BJ's Wholesale Club,441 Helena Place,Morrell Park,9,23.4
+955,84406,BJ's Wholesale Club,76 Pine View Plaza,Morrell Park,5,70.571428571428569
+54,22726,Shopko,421 Randy Lane,Millhill,6,55
+77,22726,Shopko,02074 North Center,Millhill,2,63.666666666666664
+106,22726,Shopko,0301 Melody Crossing,Millhill,3,40.375
+120,22726,Shopko,571 Clarendon Park,Millhill,12,72
+139,22726,Shopko,72026 Evergreen Drive,Millhill,11,34
+187,22726,Shopko,3 Bashford Park,Millhill,2,31.333333333333332
+189,22726,Shopko,417 Ilene Lane,Millhill,1,61.300000000000004
+190,22726,Shopko,595 Sugar Street,Millhill,1,54
+213,22726,Shopko,09 Reindahl Drive,Millhill,11,31.75
+256,22726,Shopko,613 Gerald Trail,Millhill,8,58.428571428571431
+319,22726,Shopko,060 Merry Pass,Millhill,10,15.4
+337,22726,Shopko,0 Hallows Hill,Millhill,2,73.75
+339,22726,Shopko,24 Oak Valley Alley,Millhill,1,53.2
+419,22726,Shopko,7537 Maywood Place,Millhill,7,48
+443,22726,Shopko,8710 Lillian Point,Millhill,8,65.75
+469,22726,Shopko,704 Garrison Road,Millhill,4,50.285714285714285
+521,22726,Shopko,6 Summit Avenue,Millhill,1,68.333333333333329
+571,22726,Shopko,49 Mockingbird Drive,Millhill,7,30.666666666666664
+583,22726,Shopko,915 Crowley Circle,Millhill,12,60.625
+602,22726,Shopko,64671 Hintze Center,Millhill,8,75.5
+605,22726,Shopko,4 Carioca Court,Millhill,1,51.714285714285715
+618,22726,Shopko,906 Melody Avenue,Millhill,5,62.2
+662,22726,Shopko,6 Reinke Point,Millhill,2,57.375
+686,22726,Shopko,516 Village Crossing,Millhill,5,48.857142857142854
+697,22726,Shopko,67421 Village Junction,Millhill,11,48.75
+715,22726,Shopko,953 Cody Avenue,Millhill,12,41.625
+722,22726,Shopko,4 Mcbride Way,Millhill,4,72
+732,22726,Shopko,8 Fairfield Hill,Millhill,8,44.375000000000007
+756,22726,Shopko,008 Manley Pass,Millhill,8,65.166666666666657
+767,22726,Shopko,79 Bayside Point,Millhill,8,38.833333333333336
+774,22726,Shopko,84 Starling Junction,Millhill,10,40
+783,22726,Shopko,0165 Forest Run Plaza,Millhill,5,50.6
+805,22726,Shopko,70 Shopko Park,Millhill,1,73.333333333333329
+852,22726,Shopko,3351 John Wall Road,Millhill,1,78.75
+896,22726,Shopko,17 Gateway Drive,Millhill,5,48.75
+901,22726,Shopko,40 Graedel Hill,Millhill,1,90.333333333333329
+919,22726,Shopko,2 Rockefeller Crossing,Millhill,9,58.333333333333336
+968,22726,Shopko,6359 Alpine Street,Millhill,2,59.25
+973,22726,Shopko,68988 Mitchell Circle,Millhill,10,65.4
+53,22727,Fred Meyer,1538 Steensland Park,Charles Village,10,35.25
+83,22727,Fred Meyer,90 Dawn Point,Charles Village,8,49.4
+91,22727,Fred Meyer,07 Nobel Pass,Charles Village,2,67.428571428571431
+121,22727,Fred Meyer,17010 Schiller Pass,Charles Village,4,42.75
+201,22727,Fred Meyer,223 Old Gate Trail,Charles Village,9,56
+236,22727,Fred Meyer,84 Aberg Crossing,Charles Village,7,47.599999999999994
+260,22727,Fred Meyer,50607 Schurz Junction,Charles Village,11,64.285714285714292
+276,22727,Fred Meyer,8407 Manitowish Alley,Charles Village,7,38.857142857142854
+291,22727,Fred Meyer,31 Mcguire Road,Charles Village,9,62.999999999999993
+297,22727,Fred Meyer,5804 Summit Lane,Charles Village,1,30.6
+298,22727,Fred Meyer,019 Utah Pass,Charles Village,2,42.333333333333336
+404,22727,Fred Meyer,23 Beilfuss Street,Charles Village,2,68.666666666666671
+489,22727,Fred Meyer,51 Springview Plaza,Charles Village,12,32.666666666666664
+507,22727,Fred Meyer,60 Magdeline Plaza,Charles Village,7,40.875
+612,22727,Fred Meyer,40 Transport Alley,Charles Village,10,83.5
+624,22727,Fred Meyer,4440 Melrose Junction,Charles Village,4,67
+626,22727,Fred Meyer,59550 Kim Park,Charles Village,6,77.8
+696,22727,Fred Meyer,698 Anniversary Point,Charles Village,6,48.666666666666664
+754,22727,Fred Meyer,2 Butternut Pass,Charles Village,12,40.25
+802,22727,Fred Meyer,7 Chinook Drive,Charles Village,12,51.6
+860,22727,Fred Meyer,13298 Petterle Place,Charles Village,8,43
+866,22727,Fred Meyer,878 Corry Circle,Charles Village,2,65.666666666666657
+893,22727,Fred Meyer,9804 American Ash Pass,Charles Village,9,58.5
+934,22727,Fred Meyer,5 Magdeline Street,Charles Village,3,48.666666666666671
+50,22728,HomeSense,737 Caliangt Road,Glenham-Belford,6,62
+132,22728,HomeSense,943 South Drive,Glenham-Belford,4,42
+149,22728,HomeSense,15 Kipling Court,Glenham-Belford,1,68.25
+170,22728,HomeSense,688 Hanover Road,Glenham-Belford,2,51.999999999999993
+214,22728,HomeSense,56979 Goodland Court,Glenham-Belford,10,55.285714285714285
+246,22728,HomeSense,6 3rd Junction,Glenham-Belford,3,39.6
+283,22728,HomeSense,589 Norway Maple Park,Glenham-Belford,7,69.6
+310,22728,HomeSense,8072 Aberg Alley,Glenham-Belford,1,30.8
+312,22728,HomeSense,1 Del Mar Way,Glenham-Belford,6,65
+353,22728,HomeSense,2 Calypso Park,Glenham-Belford,9,39.333333333333329
+408,22728,HomeSense,47 Garrison Drive,Glenham-Belford,10,67.428571428571431
+481,22728,HomeSense,057 Vernon Plaza,Glenham-Belford,4,35.500000000000007
+519,22728,HomeSense,994 Monument Junction,Glenham-Belford,1,26.333333333333332
+536,22728,HomeSense,4489 Heath Alley,Glenham-Belford,6,55
+573,22728,HomeSense,8 Nobel Avenue,Glenham-Belford,5,62
+582,22728,HomeSense,78595 Southridge Drive,Glenham-Belford,2,71
+632,22728,HomeSense,1857 Kennedy Alley,Glenham-Belford,10,72.625
+653,22728,HomeSense,09719 Canary Plaza,Glenham-Belford,10,51.666666666666664
+655,22728,HomeSense,5 Fuller Center,Glenham-Belford,4,31
+691,22728,HomeSense,7 Rutledge Place,Glenham-Belford,8,51.090909090909093
+743,22728,HomeSense,8 Sommers Way,Glenham-Belford,11,47.625
+765,22728,HomeSense,52636 Roth Place,Glenham-Belford,2,55.75
+887,22728,HomeSense,4 Pond Terrace,Glenham-Belford,11,88.5
+888,22728,HomeSense,25258 Westport Junction,Glenham-Belford,10,52
+949,22728,HomeSense,0 Division Avenue,Glenham-Belford,2,66.444444444444443
+960,22728,HomeSense,5 Packers Circle,Glenham-Belford,4,47
+15,22745,Burlington Coat Factory,28352 Tennyson Court,Upton,1,45.888888888888886
+45,22745,Burlington Coat Factory,1 Drewry Circle,Upton,3,46.4
+98,22745,Burlington Coat Factory,00 Crescent Oaks Circle,Upton,9,88.4
+110,22745,Burlington Coat Factory,7788 Sommers Avenue,Upton,5,76.75
+155,22745,Burlington Coat Factory,0200 Westport Circle,Upton,3,58.4
+188,22745,Burlington Coat Factory,65 Melvin Court,Upton,4,66.5
+220,22745,Burlington Coat Factory,2629 Pennsylvania Lane,Upton,7,52
+240,22745,Burlington Coat Factory,7752 Barby Center,Upton,1,70
+245,22745,Burlington Coat Factory,2 Express Pass,Upton,7,66.833333333333329
+271,22745,Burlington Coat Factory,727 Goodland Center,Upton,2,57.857142857142861
+290,22745,Burlington Coat Factory,15 Pawling Alley,Upton,12,52.4
+305,22745,Burlington Coat Factory,17985 Anderson Terrace,Upton,7,32.4
+313,22745,Burlington Coat Factory,2 Roth Park,Upton,8,49.7
+317,22745,Burlington Coat Factory,2 Oak Circle,Upton,3,42
+329,22745,Burlington Coat Factory,3 Hayes Court,Upton,9,54.25
+412,22745,Burlington Coat Factory,12 Jana Point,Upton,2,33.9
+415,22745,Burlington Coat Factory,76 Golden Leaf Trail,Upton,9,66
+456,22745,Burlington Coat Factory,7 Mallard Pass,Upton,6,60.625
+496,22745,Burlington Coat Factory,1 Alpine Avenue,Upton,10,51.75
+556,22745,Burlington Coat Factory,14 Lotheville Avenue,Upton,12,58.571428571428569
+566,22745,Burlington Coat Factory,6172 Pennsylvania Park,Upton,3,76.666666666666657
+575,22745,Burlington Coat Factory,04 Superior Junction,Upton,4,68
+591,22745,Burlington Coat Factory,23 Novick Crossing,Upton,6,42.285714285714285
+706,22745,Burlington Coat Factory,72331 Boyd Place,Upton,1,70.333333333333329
+710,22745,Burlington Coat Factory,49 Donald Parkway,Upton,8,32.166666666666671
+731,22745,Burlington Coat Factory,3 Arapahoe Plaza,Upton,8,39.333333333333336
+747,22745,Burlington Coat Factory,974 Mallory Alley,Upton,1,39.333333333333329
+825,22745,Burlington Coat Factory,789 Sachtjen Road,Upton,11,72.4
+890,22745,Burlington Coat Factory,5278 La Follette Hill,Upton,11,68
+965,22745,Burlington Coat Factory,57786 Prairieview Alley,Upton,7,24.333333333333332
+998,22745,Burlington Coat Factory,3029 Hollow Ridge Place,Upton,6,66
+64,21724,Kmart,89062 Eggendart Avenue,Cherry Hill,12,66.285714285714278
+99,21724,Kmart,82984 Northridge Junction,Cherry Hill,1,74
+145,21724,Kmart,81 Forest Run Hill,Cherry Hill,6,36.8
+198,21724,Kmart,7022 Toban Crossing,Cherry Hill,1,64.4
+248,21724,Kmart,7330 John Wall Place,Cherry Hill,2,53.5
+265,21724,Kmart,70933 Heffernan Street,Cherry Hill,8,51.75
+273,21724,Kmart,4 Derek Alley,Cherry Hill,12,70.4
+279,21724,Kmart,36 Brickson Park Hill,Cherry Hill,4,70.571428571428569
+303,21724,Kmart,9 Melby Crossing,Cherry Hill,6,52.857142857142854
+401,21724,Kmart,608 Pennsylvania Crossing,Cherry Hill,9,57.75
+416,21724,Kmart,6877 Hooker Hill,Cherry Hill,1,49.8
+420,21724,Kmart,6423 Vahlen Court,Cherry Hill,3,44.5
+432,21724,Kmart,8 Burrows Circle,Cherry Hill,5,35.166666666666664
+440,21724,Kmart,6742 Lillian Center,Cherry Hill,5,54
+444,21724,Kmart,070 Thierer Alley,Cherry Hill,8,49.6
+522,21724,Kmart,8 Hoard Point,Cherry Hill,6,45
+574,21724,Kmart,65 Daystar Court,Cherry Hill,9,78.5
+617,21724,Kmart,9153 Luster Lane,Cherry Hill,10,28.333333333333332
+628,21724,Kmart,96 Amoth Hill,Cherry Hill,11,59.4
+779,21724,Kmart,06 3rd Crossing,Cherry Hill,2,60.125
+787,21724,Kmart,410 Maryland Lane,Cherry Hill,9,77
+851,21724,Kmart,88136 Menomonie Terrace,Cherry Hill,3,59.25
+858,21724,Kmart,94079 Warner Plaza,Cherry Hill,6,67.875
+869,21724,Kmart,9306 Glacier Hill Terrace,Cherry Hill,7,73.142857142857153
+870,21724,Kmart,83079 Sutherland Pass,Cherry Hill,12,45.2
+917,21724,Kmart,532 Express Crossing,Cherry Hill,10,49.25
+930,21724,Kmart,342 Green Drive,Cherry Hill,8,43
+995,21724,Kmart,9 Morningstar Parkway,Cherry Hill,2,41.666666666666671
+17,22748,Renys,14 Mayfield Alley,Port Covington,5,74.166666666666671
+39,22748,Renys,24 American Ash Plaza,Port Covington,4,48.833333333333329
+60,22748,Renys,8 Melvin Drive,Port Covington,6,65.857142857142861
+63,22748,Renys,6553 Maryland Center,Port Covington,2,36.125
+177,22748,Renys,17793 Chinook Parkway,Port Covington,7,27.5
+197,22748,Renys,71593 Macpherson Way,Port Covington,10,51.000000000000007
+230,22748,Renys,9 Knutson Point,Port Covington,2,65
+231,22748,Renys,935 Delladonna Way,Port Covington,11,51.375
+270,22748,Renys,3 Upham Park,Port Covington,1,65.75
+288,22748,Renys,93957 Kim Avenue,Port Covington,2,55.36363636363636
+368,22748,Renys,10134 Luster Park,Port Covington,10,43.571428571428577
+461,22748,Renys,6814 Corscot Park,Port Covington,5,50.375
+464,22748,Renys,304 Charing Cross Park,Port Covington,2,61.7
+467,22748,Renys,93 Meadow Ridge Lane,Port Covington,5,72.285714285714292
+478,22748,Renys,173 Riverside Pass,Port Covington,6,42.25
+499,22748,Renys,34927 Algoma Point,Port Covington,12,42.571428571428577
+512,22748,Renys,59 8th Lane,Port Covington,9,56.857142857142854
+530,22748,Renys,7484 Valley Edge Way,Port Covington,2,76.444444444444443
+552,22748,Renys,678 Evergreen Lane,Port Covington,12,46.5
+599,22748,Renys,6 Stone Corner Street,Port Covington,6,56.571428571428569
+601,22748,Renys,9 Kingsford Terrace,Port Covington,9,29.666666666666664
+604,22748,Renys,3767 Lotheville Pass,Port Covington,8,62
+615,22748,Renys,4 Arizona Terrace,Port Covington,1,60.7
+622,22748,Renys,0540 6th Street,Port Covington,6,57
+692,22748,Renys,4 Swallow Junction,Port Covington,1,63.375
+726,22748,Renys,7183 Fairview Alley,Port Covington,5,56.25
+789,22748,Renys,63739 Transport Crossing,Port Covington,11,47.75
+818,22748,Renys,9833 Marcy Lane,Port Covington,4,55
+821,22748,Renys,759 Sutherland Terrace,Port Covington,9,55.333333333333336
+947,22748,Renys,12101 Pawling Junction,Port Covington,7,38
+18,22749,Gabe's,010 Lunder Avenue,Oliver,9,57.75
+38,22749,Gabe's,55 Bonner Lane,Oliver,9,63.571428571428584
+105,22749,Gabe's,46564 Dixon Drive,Oliver,11,60.75
+144,22749,Gabe's,35 Evergreen Drive,Oliver,4,76.333333333333329
+168,22749,Gabe's,35736 Lukken Drive,Oliver,1,42.333333333333329
+172,22749,Gabe's,8 Milwaukee Way,Oliver,7,59.375000000000007
+219,22749,Gabe's,4 Lerdahl Circle,Oliver,12,77.2
+227,22749,Gabe's,131 Everett Circle,Oliver,5,34.875
+261,22749,Gabe's,5 Ohio Junction,Oliver,2,62
+280,22749,Gabe's,09471 1st Circle,Oliver,5,59.5
+282,22749,Gabe's,6 Chinook Alley,Oliver,12,54.666666666666664
+284,22749,Gabe's,175 Melby Terrace,Oliver,3,34.333333333333336
+296,22749,Gabe's,02 Rieder Road,Oliver,9,36.25
+327,22749,Gabe's,71705 Brown Alley,Oliver,8,32.75
+330,22749,Gabe's,9270 2nd Way,Oliver,12,47
+342,22749,Gabe's,799 Johnson Crossing,Oliver,1,29.125000000000004
+343,22749,Gabe's,35426 Armistice Point,Oliver,6,60.75
+386,22749,Gabe's,10155 Mifflin Center,Oliver,8,46.6
+438,22749,Gabe's,23 American Circle,Oliver,10,43.4
+452,22749,Gabe's,6 Glendale Terrace,Oliver,5,46.8
+480,22749,Gabe's,36 Homewood Trail,Oliver,5,55.7
+562,22749,Gabe's,32 Dunning Circle,Oliver,6,54.857142857142854
+579,22749,Gabe's,4 Debra Court,Oliver,1,60.125000000000007
+627,22749,Gabe's,4 Village Center,Oliver,3,88
+674,22749,Gabe's,01619 Sunfield Street,Oliver,3,84.666666666666671
+701,22749,Gabe's,6398 Badeau Park,Oliver,7,51.75
+742,22749,Gabe's,4104 Kings Drive,Oliver,10,50.4
+799,22749,Gabe's,2 Emmet Place,Oliver,8,46.625
+841,22749,Gabe's,64 Susan Parkway,Oliver,1,62.375
+881,22749,Gabe's,77 Waubesa Lane,Oliver,6,42.6
+916,22749,Gabe's,8 Carey Court,Oliver,3,64.25
+961,22749,Gabe's,4 Harper Hill,Oliver,11,50.666666666666664
+962,22749,Gabe's,759 Gerald Circle,Oliver,12,39.666666666666664
+994,22749,Gabe's,3 Tennyson Trail,Oliver,9,67.333333333333329
+8,22752,Costco,1 Clarendon Way,Baltimore Highlands,3,32.25
+55,22752,Costco,9 Dwight Plaza,Baltimore Highlands,10,49
+92,22752,Costco,26220 Gale Place,Baltimore Highlands,11,37.666666666666664
+163,22752,Costco,1497 Cordelia Point,Baltimore Highlands,2,33
+199,22752,Costco,45038 Commercial Avenue,Baltimore Highlands,4,79.6
+225,22752,Costco,084 Starling Crossing,Baltimore Highlands,3,28.8
+238,22752,Costco,0826 Sachs Way,Baltimore Highlands,3,69.5
+268,22752,Costco,99 Evergreen Parkway,Baltimore Highlands,3,35
+275,22752,Costco,50689 La Follette Alley,Baltimore Highlands,10,47.166666666666664
+326,22752,Costco,7 Arapahoe Court,Baltimore Highlands,11,47.4
+380,22752,Costco,3 Arapahoe Avenue,Baltimore Highlands,11,66.428571428571445
+382,22752,Costco,24 Florence Terrace,Baltimore Highlands,12,46.75
+414,22752,Costco,3 South Park,Baltimore Highlands,1,53
+451,22752,Costco,10025 Kenwood Park,Baltimore Highlands,12,47
+547,22752,Costco,4 Gale Drive,Baltimore Highlands,3,43.25
+551,22752,Costco,27 Menomonie Hill,Baltimore Highlands,4,48.25
+564,22752,Costco,80622 Center Drive,Baltimore Highlands,2,42.333333333333336
+572,22752,Costco,747 Basil Pass,Baltimore Highlands,1,35.5
+600,22752,Costco,75 Waxwing Plaza,Baltimore Highlands,1,69.875
+607,22752,Costco,86 Lakeland Trail,Baltimore Highlands,3,44.4
+621,22752,Costco,7 Starling Junction,Baltimore Highlands,2,66.142857142857139
+709,22752,Costco,0157 Village Avenue,Baltimore Highlands,10,63.285714285714285
+804,22752,Costco,1835 Harper Parkway,Baltimore Highlands,10,61.6
+853,22752,Costco,383 Briar Crest Way,Baltimore Highlands,12,85
+875,22752,Costco,77718 Randy Court,Baltimore Highlands,7,59.2
+922,22752,Costco,23 Ryan Lane,Baltimore Highlands,8,55.714285714285715
+970,22752,Costco,96487 Buena Vista Road,Baltimore Highlands,11,70.2
+9,21730,Fred's,629 Crescent Oaks Center,Pulaski Industrial Area,8,37.888888888888886
+26,21730,Fred's,5995 Merchant Trail,Pulaski Industrial Area,11,46
+210,21730,Fred's,677 David Alley,Pulaski Industrial Area,9,36.857142857142861
+229,21730,Fred's,4844 Valley Edge Park,Pulaski Industrial Area,7,66.666666666666671
+309,21730,Fred's,8 Lunder Terrace,Pulaski Industrial Area,5,64.25
+318,21730,Fred's,2399 Artisan Junction,Pulaski Industrial Area,8,57.5
+354,21730,Fred's,710 Summerview Parkway,Pulaski Industrial Area,8,55
+357,21730,Fred's,05547 Mendota Plaza,Pulaski Industrial Area,5,42.333333333333336
+365,21730,Fred's,0055 Annamark Terrace,Pulaski Industrial Area,12,60.5
+378,21730,Fred's,7 Moland Avenue,Pulaski Industrial Area,4,73.299999999999983
+392,21730,Fred's,04 Sheridan Street,Pulaski Industrial Area,11,42.4
+425,21730,Fred's,211 Hovde Terrace,Pulaski Industrial Area,6,62
+473,21730,Fred's,551 Nancy Way,Pulaski Industrial Area,1,54.5
+548,21730,Fred's,62920 Kings Lane,Pulaski Industrial Area,4,47.6
+580,21730,Fred's,3 Laurel Terrace,Pulaski Industrial Area,9,51.111111111111114
+585,21730,Fred's,57 Gerald Street,Pulaski Industrial Area,11,42.000000000000007
+613,21730,Fred's,5712 Portage Junction,Pulaski Industrial Area,6,78.5
+614,21730,Fred's,45 Forest Run Circle,Pulaski Industrial Area,11,46.272727272727273
+650,21730,Fred's,9667 Troy Plaza,Pulaski Industrial Area,9,52.666666666666671
+657,21730,Fred's,16386 Mayer Way,Pulaski Industrial Area,7,83
+678,21730,Fred's,98132 Sugar Hill,Pulaski Industrial Area,1,73.833333333333329
+721,21730,Fred's,864 Ridgeway Pass,Pulaski Industrial Area,4,51
+737,21730,Fred's,2 Buena Vista Drive,Pulaski Industrial Area,12,60.5
+758,21730,Fred's,2564 Buell Park,Pulaski Industrial Area,10,53.125
+762,21730,Fred's,06 High Crossing Street,Pulaski Industrial Area,5,41
+791,21730,Fred's,20911 Pond Road,Pulaski Industrial Area,6,42.142857142857139
+846,21730,Fred's,98 Lyons Pass,Pulaski Industrial Area,2,56
+854,21730,Fred's,3 Arizona Street,Pulaski Industrial Area,11,54.6
+933,21730,Fred's,920 Larry Parkway,Pulaski Industrial Area,6,29.666666666666664
+935,21730,Fred's,4 Onsgard Way,Pulaski Industrial Area,8,64.6
+964,21730,Fred's,42 Summit Alley,Pulaski Industrial Area,6,70.5
+972,21730,Fred's,5 Waxwing Terrace,Pulaski Industrial Area,2,127.5
+21,84969,Dd's Discounts,634 Jackson Parkway,Canton,2,38.285714285714285
+32,84969,Dd's Discounts,4416 Barby Terrace,Canton,7,43.166666666666664
+34,84969,Dd's Discounts,375 Bellgrove Point,Canton,3,48.5
+48,84969,Dd's Discounts,2 Morrow Avenue,Canton,11,47.999999999999993
+61,84969,Dd's Discounts,645 Pierstorff Terrace,Canton,5,59.857142857142854
+100,84969,Dd's Discounts,7 Gina Street,Canton,7,74
+129,84969,Dd's Discounts,60609 Wayridge Junction,Canton,2,56.333333333333336
+148,84969,Dd's Discounts,0 Corscot Point,Canton,2,37.5
+151,84969,Dd's Discounts,3 Burrows Crossing,Canton,12,38.625000000000007
+250,84969,Dd's Discounts,1 Grover Trail,Canton,11,49
+285,84969,Dd's Discounts,87927 Riverside Parkway,Canton,6,62
+325,84969,Dd's Discounts,9609 Menomonie Lane,Canton,6,62.25
+369,84969,Dd's Discounts,4309 Grayhawk Park,Canton,7,44.857142857142854
+446,84969,Dd's Discounts,4763 Northport Center,Canton,10,24.8
+486,84969,Dd's Discounts,548 Jana Terrace,Canton,10,50.2
+495,84969,Dd's Discounts,67754 Fallview Junction,Canton,10,36
+576,84969,Dd's Discounts,68 Tennyson Place,Canton,12,66.8
+581,84969,Dd's Discounts,256 Vera Terrace,Canton,9,57.857142857142854
+594,84969,Dd's Discounts,8613 Arapahoe Terrace,Canton,3,48.75
+636,84969,Dd's Discounts,6362 Eastwood Court,Canton,11,64.333333333333329
+663,84969,Dd's Discounts,26 Ryan Avenue,Canton,2,63.2
+665,84969,Dd's Discounts,8011 Monterey Center,Canton,10,45.249999999999993
+681,84969,Dd's Discounts,442 Claremont Junction,Canton,5,78.666666666666671
+714,84969,Dd's Discounts,66 Ilene Place,Canton,12,70.5
+798,84969,Dd's Discounts,8 Scott Crossing,Canton,3,74.6
+812,84969,Dd's Discounts,274 Lukken Crossing,Canton,12,82.4
+856,84969,Dd's Discounts,9610 Meadow Valley Way,Canton,3,45.2
+868,84969,Dd's Discounts,0 Elgar Road,Canton,11,48.999999999999993
+907,84969,Dd's Discounts,41701 4th Place,Canton,4,63.5
+937,84969,Dd's Discounts,48 Bay Road,Canton,8,38
+27,21754,Ross Stores,023 Coleman Place,Better Waverly,2,54.375000000000007
+57,21754,Ross Stores,71 Dayton Plaza,Better Waverly,6,46.875
+89,21754,Ross Stores,666 Helena Parkway,Better Waverly,3,37.5
+147,21754,Ross Stores,44 Drewry Street,Better Waverly,12,37
+154,21754,Ross Stores,8566 Clove Hill,Better Waverly,9,34.75
+254,21754,Ross Stores,03 Debs Crossing,Better Waverly,5,27
+300,21754,Ross Stores,98 American Alley,Better Waverly,11,57.375
+333,21754,Ross Stores,36 Little Fleur Lane,Better Waverly,6,72.333333333333329
+344,21754,Ross Stores,277 Loftsgordon Plaza,Better Waverly,5,50.125
+360,21754,Ross Stores,22 Barby Point,Better Waverly,1,63.142857142857146
+383,21754,Ross Stores,4193 Clove Crossing,Better Waverly,12,47.2
+431,21754,Ross Stores,8 Roxbury Parkway,Better Waverly,7,38.333333333333336
+447,21754,Ross Stores,591 Continental Drive,Better Waverly,3,58
+498,21754,Ross Stores,82744 Bonner Terrace,Better Waverly,4,59.625
+502,21754,Ross Stores,900 Johnson Terrace,Better Waverly,2,50.5
+509,21754,Ross Stores,95 Mccormick Center,Better Waverly,9,65.166666666666671
+534,21754,Ross Stores,70990 Oxford Crossing,Better Waverly,10,52.222222222222221
+540,21754,Ross Stores,38 Lakewood Gardens Hill,Better Waverly,1,48.75
+560,21754,Ross Stores,686 Swallow Terrace,Better Waverly,10,63.888888888888886
+649,21754,Ross Stores,2 Forest Dale Plaza,Better Waverly,1,29.166666666666664
+669,21754,Ross Stores,43642 Erie Trail,Better Waverly,10,21.5
+749,21754,Ross Stores,1891 Mallory Terrace,Better Waverly,6,33.333333333333336
+797,21754,Ross Stores,0 Monica Road,Better Waverly,8,22
+843,21754,Ross Stores,8 Dryden Park,Better Waverly,2,44.166666666666671
+28,21755,Tuesday Morning,84269 Crescent Oaks Way,Belair-Edison,10,54
+62,21755,Tuesday Morning,709 6th Circle,Belair-Edison,7,70
+179,21755,Tuesday Morning,26176 Acker Pass,Belair-Edison,1,52.333333333333336
+203,21755,Tuesday Morning,5428 Judy Hill,Belair-Edison,5,60.142857142857153
+336,21755,Tuesday Morning,66727 Dixon Street,Belair-Edison,9,44.666666666666671
+476,21755,Tuesday Morning,6 Comanche Place,Belair-Edison,9,30.666666666666664
+479,21755,Tuesday Morning,5 Cottonwood Crossing,Belair-Edison,9,34.5
+503,21755,Tuesday Morning,7 Westend Circle,Belair-Edison,1,34
+568,21755,Tuesday Morning,3332 Oxford Park,Belair-Edison,4,54.666666666666664
+588,21755,Tuesday Morning,326 Waubesa Alley,Belair-Edison,8,52.5
+611,21755,Tuesday Morning,0 Morningstar Street,Belair-Edison,1,64
+670,21755,Tuesday Morning,822 Vernon Point,Belair-Edison,1,64.5
+699,21755,Tuesday Morning,0284 Kipling Terrace,Belair-Edison,12,64.333333333333329
+702,21755,Tuesday Morning,9234 Schlimgen Circle,Belair-Edison,7,98
+723,21755,Tuesday Morning,49 Darwin Pass,Belair-Edison,7,59.666666666666671
+730,21755,Tuesday Morning,7 Meadow Vale Alley,Belair-Edison,7,78.888888888888872
+810,21755,Tuesday Morning,6246 Sugar Pass,Belair-Edison,10,47.5
+822,21755,Tuesday Morning,5 Fallview Alley,Belair-Edison,9,28
+837,21755,Tuesday Morning,22591 Pine View Terrace,Belair-Edison,6,82.2
+864,21755,Tuesday Morning,32377 Manufacturers Center,Belair-Edison,1,61.166666666666671
+872,21755,Tuesday Morning,31 Killdeer Crossing,Belair-Edison,12,52.5
+938,21755,Tuesday Morning,08492 Vera Way,Belair-Edison,12,59.5
+941,21755,Tuesday Morning,9952 Lindbergh Alley,Belair-Edison,2,40.6
+943,21755,Tuesday Morning,59 Porter Crossing,Belair-Edison,2,57.4
+992,21755,Tuesday Morning,1557 Boyd Street,Belair-Edison,6,37.571428571428569
+999,21755,Tuesday Morning,496 Dapin Hill,Belair-Edison,6,45.75
+49,21756,Roses,0 4th Pass,Frankford,8,63.125
+68,21756,Roses,82 Golf Plaza,Frankford,2,42.5
+85,21756,Roses,165 Moland Pass,Frankford,2,34.5
+103,21756,Roses,92300 Granby Point,Frankford,10,49.25
+115,21756,Roses,1 Marquette Crossing,Frankford,6,57.5
+118,21756,Roses,9 Prentice Place,Frankford,10,46.999999999999993
+123,21756,Roses,2 Longview Drive,Frankford,1,55.75
+125,21756,Roses,9404 Arizona Court,Frankford,12,57.75
+141,21756,Roses,1 Dakota Drive,Frankford,11,37.5
+146,21756,Roses,0524 Anhalt Lane,Frankford,7,37.555555555555557
+169,21756,Roses,76813 Hoffman Crossing,Frankford,3,52.222222222222214
+176,21756,Roses,40477 Caliangt Center,Frankford,11,57.142857142857146
+194,21756,Roses,13 Chinook Way,Frankford,5,52.714285714285708
+211,21756,Roses,2457 Northfield Circle,Frankford,3,87
+334,21756,Roses,63 Briar Crest Drive,Frankford,1,62.625
+379,21756,Roses,4891 School Trail,Frankford,10,26
+397,21756,Roses,11 Bellgrove Junction,Frankford,10,49.75
+433,21756,Roses,00 Clemons Street,Frankford,4,78.4
+462,21756,Roses,1 Drewry Crossing,Frankford,10,100.33333333333333
+490,21756,Roses,05870 Hintze Circle,Frankford,8,57.666666666666671
+506,21756,Roses,88 Stephen Terrace,Frankford,2,42
+593,21756,Roses,96 Gateway Parkway,Frankford,11,52.8
+639,21756,Roses,62 Park Meadow Point,Frankford,12,48.454545454545453
+645,21756,Roses,01 Anhalt Point,Frankford,10,58.1
+664,21756,Roses,22 Carberry Crossing,Frankford,9,62.571428571428569
+725,21756,Roses,54 Emmet Point,Frankford,3,69
+740,21756,Roses,64 Hazelcrest Junction,Frankford,11,44.444444444444443
+867,21756,Roses,8427 Del Sol Lane,Frankford,2,67.571428571428584
+910,21756,Roses,3735 Lien Drive,Frankford,2,59.333333333333336
+944,21756,Roses,52 Reinke Circle,Frankford,2,64.142857142857153
+958,21756,Roses,56067 Golf Way,Frankford,12,50.75
+974,21756,Roses,88 Annamark Center,Frankford,10,51.166666666666671
+991,21756,Roses,9 Randy Road,Frankford,3,61.444444444444443
